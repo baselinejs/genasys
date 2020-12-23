@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.tsdk": ".yarn/sdks/typescript/lib",
+		"typescript.enablePromptUseWorkspaceTsdk": true,
+		"jestrunner.enableYarnPnpSupport": true,
+		"jestrunner.detectYarnPnpJestBin": true,
+		"jestrunner.debugOptions": {
+		
+		},
+		"jestrunner.runOptions": [
+			"--coverage=false"
+		]
+	}
+}
